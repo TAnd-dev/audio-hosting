@@ -1,0 +1,22 @@
+{
+    "source": {
+      "done": {
+        "source": "openai",
+        "models": [
+          "gpt-3.5-turbo-1106"
+        ]
+      }
+    },
+    "endpoints": [
+      {
+        "id": "openai/chat-completion"
+      }
+    ],
+    "info": {
+      "name": "GPT 3.5 turbo",
+      "developer": "Open AI",
+      "description": "",
+      "contextLength": 16000,
+      "url": ""
+    }
+}
