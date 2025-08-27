@@ -3,13 +3,16 @@
       "done": {
         "source": "openai",
         "models": [
-          "gpt-3.5-turbo-1106"
+          "o4-mini-2025-04-16"
         ]
       }
     },
     "endpoints": [
       {
         "id": "openai/chat-completion"
+      },
+      {
+        "id": "openai/responses"
       }
     ],
     "info": {
