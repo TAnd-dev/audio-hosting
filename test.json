@@ -1,4 +1,5 @@
-{
+[
+  {
     "source": {
       "done": {
         "source": "openai",
@@ -22,4 +23,5 @@
       "contextLength": 16000,
       "url": ""
     }
-}
+  }
+]
