@@ -8,7 +8,7 @@
         ]
       }
     },
-    "endpoints": [
+    "features": [
       "openai/chat-completion",
       "openai/responses"
     ],
@@ -18,6 +18,14 @@
       "description": "",
       "contextLength": 16000,
       "url": ""
+    },
+    "price_info": {
+      "in": 1.1,
+      "out": 4.4,
+      "cachedIn": 0.275,
+      "tags": [
+        "tier:tier_2"
+      ]
     }
   }
 ]
