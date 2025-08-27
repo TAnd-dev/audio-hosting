@@ -13,7 +13,7 @@
       "openai/responses"
     ],
     "info": {
-      "name": "o4 mini"
+      "name": "o4 mini",
       "developer": "Open AI",
       "description": "",
       "contextLength": 16000,
