@@ -13,7 +13,7 @@
       "openai/responses"
     ],
     "info": {
-      "name": "GPT 3.5 turbo",
+      "name": "o4 mini"
       "developer": "Open AI",
       "description": "",
       "contextLength": 16000,
@@ -41,7 +41,7 @@
       "openai/chat-completion"
     ],
     "info": {
-      "name": "GPT 3.5 turbo",
+      "name": "grok code fat 1",
       "developer": "Open AI",
       "description": "",
       "contextLength": 16000,
