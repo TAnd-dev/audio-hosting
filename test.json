@@ -27,5 +27,33 @@
         "tier:tier_2"
       ]
     }
+  },
+  {
+    "source": {
+      "done": {
+        "source": "openrouter",
+        "models": [
+          "x-ai/grok-code-fast-1"
+        ]
+      }
+    },
+    "features": [
+      "openai/chat-completion"
+    ],
+    "info": {
+      "name": "GPT 3.5 turbo",
+      "developer": "Open AI",
+      "description": "",
+      "contextLength": 16000,
+      "url": ""
+    },
+    "price_info": {
+      "in": 1.1,
+      "out": 4.4,
+      "cachedIn": 0.275,
+      "tags": [
+        "tier:tier_2"
+      ]
+    }
   }
 ]
